@@ -1,0 +1,23 @@
+Q.1 When should the private methods be used in a class?
+Ans-: private keyword in java allows most restrictive access to variables and methods. these are not accessible outside the class and  can not be overridden.\
+
+Q.2 What are two benefits of using the Factory methods?
+Ans-:
+•	In Factory method, we can use the code without duplication of code.
+•	In Factory method, we can have more names to give a method name .
+
+Q.3 Overloading is compile time or runtime?
+Ans-:
+Overloading is compile time where more than one method can have same name with different parameters.
+
+Q.4 What are the three ways of initializing instance variables?
+Ans-:The ways are-: final methods, constructors and  initialization blocks.
+
+Q.5 Why "finalize" method is deprecated?
+Ans-:finalize() is deprecated method.It is called by garbage collector.The problem with it was that it was not execute guanranteed.
+
+Q.6 What is the proper way of naming a package in java, show using an example.
+Ans-:<domain reverse order>.<application name>.<group name>.
+
+
+
